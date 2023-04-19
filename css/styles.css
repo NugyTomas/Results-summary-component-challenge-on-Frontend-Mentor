@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
+.container {
+    padding: 10% 20%;
+    font-family: 'Hanken Grotesk';
+}
+
+/* Left-Side */
+
+#result-section {
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    width: 19rem;
+    height: 27rem;
+    border-radius: 2rem;
+}
+
+.your-result-title {
+    padding-top: 10%;
+    color: #D6D5CB;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.round-score {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: inset 1px 1px 10px 0px;
+    background: linear-gradient(0deg,hsl(241, 72%, 46%), hsla(252, 100%, 67%)100%);
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+    margin-bottom: 1rem;
+}
+
+.hscore-number {
+    padding-top: 1.5rem;
+    margin-bottom: 0;
+    font-size: 3rem;
+    color: white;
+    font-weight: 700;
+}
+
+.uscore-number {
+    color: #D6D5CB;
+}
+
+.great-title {
+    color: white;
+    padding-top: 1rem;
+    font-size: 2rem;
+
+}
+
+.under-great-paragraph {
+    padding: 1% 12%;
+    color: #D6D5CB;
+}
+
+/* Right-Side */
+
+
+#summary-section {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    width: 19rem;
+    height: 27rem;
+    border-radius: 2rem;
+}
+
+.icon {
+    padding-right: 5%;
+}
+
+.summary-title {
+    font-size: 1.2rem;
+    padding: 10% 64% 3% 5%;
+    font-weight: 800;
+}
+
+
+
+.result-numbers {
+    border-radius: 0.5rem;
+    padding: 5%;
+    margin: 1%;
+    width: 100%;
+    display: inline-block;
+}
+
+.oval-styling {
+    margin-bottom: 0;
+
+}
+
+.reaction {
+    background: hsla(0,100%,67%,.2);
+
+}
+
+.reaction-color {
+    color: hsl(0, 100%, 67%);
+}
+
+.memory {
+    background: hsla(39,100%,56%,.2);
+
+}
+
+.memory-color {
+    color: hsl(39, 100%, 56%);
+}
+
+.verbal {
+    background: hsla(166,100%,37%,.2);
+
+}
+
+.verbal-color {
+    color: hsl(166, 100%, 37%);
+}
+
+.visual {
+    background: hsla(234,85%,45%,.2);
+}
+
+.visual-color{
+    color:hsl(234, 85%, 45%);
+}
+
+.btn {
+    margin-top: 1.5rem;
+    height: 11%;
+    width: 88%;
+    color:white !important;
+    background: hsl(224, 31%, 28%) !important;
+    font-size: 1rem !important;
+    font-weight: 100;
+}
+
+.btn:hover {
+    background:  linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%))  !important ;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
