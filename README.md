@@ -14,7 +14,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -62,6 +61,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Tomas Nguyen](https://nugytomas.github.io/cv/)
+- Website - [Tomas Nguyen](https://nugytomas.github.io/My-Personal-Website/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
